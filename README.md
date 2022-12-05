@@ -50,6 +50,7 @@ Move to the project directory then run the tomcat server
 ```
 mvn tomcat7:run
 ```
+![image](https://user-images.githubusercontent.com/78508211/205670835-bf95d135-e702-4a5d-bf73-311d0c78c240.png)
 
 Demo :
 
