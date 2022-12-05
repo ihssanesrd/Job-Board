@@ -3,18 +3,19 @@
 ## Problematic :
 Rekrute is one of the largest Moroccan job websites offering a wide variety of jobs in diffferent sectors.
 A job or internship hunter challenge is to find a compatible offer with skills which match job’s requirements.
-![image](https://user-images.githubusercontent.com/78508211/205671172-ea684888-2b2a-4f32-947b-a0175c9c7ff5.png)
+![image](https://user-images.githubusercontent.com/78508211/205676671-bf2c9d5a-3b49-419c-b534-2d884628c0ea.png)
 
 ## Our Application Goal :
 -Limiting the jobs offers to IT sector by scrapping only what is needed 
 -Creating an easy access application which sorts the jobs
 -Exploring the most required skills for IT and creating a predicting model
 Strategy :
-1-Scrapping data and storing in the database
-![image](https://user-images.githubusercontent.com/78508211/205671432-40b34884-8469-443e-89e8-4555ede55530.png)
-![image](https://user-images.githubusercontent.com/78508211/205671598-2f89ff47-058d-4e60-9a80-ef21cb28a35e.png)
+1.Scrapping data and storing in the database
+![image](https://user-images.githubusercontent.com/78508211/205676724-12a602fd-1df3-4466-ad00-c8d27bfeb851.png)
+![image](https://user-images.githubusercontent.com/78508211/205676761-00bea835-396b-40d0-a8f3-1397b2e92482.png)
 
-2-Web application building
+
+2.Web application building
 We used HTML , CSS, JavaScript and Bootstrap to build the responsive pages of our application
 
 ![image](https://user-images.githubusercontent.com/78508211/205671764-a1c823ec-2669-46ef-89bd-750e6dcccb5d.png)
@@ -27,7 +28,7 @@ We used HTML , CSS, JavaScript and Bootstrap to build the responsive pages of ou
 Then we built the Backend based on a MVC architecture of JEE.
 ![image](https://user-images.githubusercontent.com/78508211/205672689-ad315f8e-b338-4d03-9379-00a1edb4ac0b.png)
 
-3-Machine learning approach
+3.Machine learning approach
 ![image](https://user-images.githubusercontent.com/78508211/205673219-42cd1750-80a3-48be-a3b8-1b794d043a81.png)
 
 We did bivariate analysis to see which varible affects which variable like if there is an association between the type of contract and the fuction we would want to train our model to predict the type of contract based on the function and so on.
