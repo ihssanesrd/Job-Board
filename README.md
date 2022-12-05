@@ -18,8 +18,8 @@ Strategy :
 2.Web application building
 We used HTML , CSS, JavaScript and Bootstrap to build the responsive pages of our application
 
-![image](https://user-images.githubusercontent.com/78508211/205671764-a1c823ec-2669-46ef-89bd-750e6dcccb5d.png)
-![image](https://user-images.githubusercontent.com/78508211/205671981-aa13537c-e049-4172-a1c7-eba63f1f995a.png)
+![image](https://user-images.githubusercontent.com/78508211/205677366-8cb33a51-8aa2-45e0-a32f-43013d5a4474.png)
+![image](https://user-images.githubusercontent.com/78508211/205677176-6736c711-a844-4bfc-b129-9909f66f58da.png)
 ![image](https://user-images.githubusercontent.com/78508211/205672299-c996029a-9b11-4bfa-b184-cf612c35764a.png)
 ![image](https://user-images.githubusercontent.com/78508211/205672369-67522755-8eb4-460e-9539-097b622dc9d1.png)
 ![image](https://user-images.githubusercontent.com/78508211/205672471-dc4629f2-3225-4a82-94ad-db400ea68528.png)
