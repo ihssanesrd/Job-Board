@@ -1,10 +1,10 @@
 # Job-Board
 
-##Problematic :
+## Problematic :
 Rekrute is one of the largest Moroccan job websites offering a wide variety of jobs in diffferent sectors.
 A job or internship hunter chaallenge is to find a compatible offer with skills which match job’s requirements.
 
-##Our Application Goal :
+## Our Application Goal :
 -Limiting the jobs offers to IT sector by scrapping only what is needed 
 -Creating an easy access application which sorts the jobs
 -Exploring the most required skills for IT and creating a predicting model
@@ -47,6 +47,9 @@ When we did our associations we moved to search the most accurate model for our 
 
 How to run the application :
 Move to the project directory then run the tomcat server
+```
+mvn tomcat7:run
+```
 
 Demo :
 
