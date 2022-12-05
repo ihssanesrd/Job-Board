@@ -26,7 +26,7 @@ We used HTML , CSS, JavaScript and Bootstrap to build the responsive pages of ou
 ![image](https://user-images.githubusercontent.com/78508211/205672596-0a1bfc09-4338-43d7-ad37-3354f19cdd3b.png)
 
 Then we built the Backend based on a MVC architecture of JEE.
-![image](https://user-images.githubusercontent.com/78508211/205672689-ad315f8e-b338-4d03-9379-00a1edb4ac0b.png)
+![image](https://user-images.githubusercontent.com/78508211/205678352-3f911f33-d058-4d8f-8f27-4b7dae960a5e.png)
 
 3.Machine learning approach
 ![image](https://user-images.githubusercontent.com/78508211/205673219-42cd1750-80a3-48be-a3b8-1b794d043a81.png)
